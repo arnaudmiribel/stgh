@@ -3,9 +3,11 @@
 This Chrome Extension enables you to quickly open the relevant GitHub code of a Streamlit app in a new tab.  
 Or vice versa, you can also just open the Streamlit app from the GitHub code!
 
+<img src="./stgh.gif" width="400px">
+
 ## How to install
 
-1. Clone the repo `github clone 
+1. Clone the repo `git clone https://github.com/arnaudmiribel/stgh_extension`
 2. In Chrome, visit `chrome://extensions`
 3. On the top right, make sure you have enabled Developer mode
 4. Click on `Load unpacked` and point to the directory of `ghst-extension`
