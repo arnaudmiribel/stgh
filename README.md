@@ -1,4 +1,4 @@
-<img src="./icon.png" width="200px">
+<img src="./icon.png" width="120px">
 
 # `stgh` Chrome Extension
 
