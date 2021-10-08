@@ -7,7 +7,7 @@ Or vice versa, you can also just open the Streamlit app from the GitHub code!
 
 ## How to install
 
-1. Clone the repo `git clone https://github.com/arnaudmiribel/stgh_extension`
+1. Clone the repo `git clone https://github.com/arnaudmiribel/stgh`
 2. In Chrome, visit `chrome://extensions`
 3. On the top right, make sure you have enabled Developer mode
 4. Click on `Load unpacked` and point to the directory of `ghst-extension`
@@ -17,4 +17,5 @@ Or vice versa, you can also just open the Streamlit app from the GitHub code!
 
 - [ ] On GitHub, modify DOM to also add a button `Open in Streamlit` 
 - [ ] Make a better logo...
+- [ ] Support when URL ends with parameters e.g. `?page=headliner`
 
