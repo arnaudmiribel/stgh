@@ -1,3 +1,5 @@
+<img src="./icon.png" width="200px">
+
 # `stgh` Chrome Extension
 
 This Chrome Extension enables you to quickly open the relevant GitHub code of a Streamlit app in a new tab.  
