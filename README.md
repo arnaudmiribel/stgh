@@ -18,4 +18,6 @@ Or vice versa, you can also just open the Streamlit app from the GitHub code!
 - [ ] On GitHub, modify DOM to also add a button `Open in Streamlit` 
 - [ ] Make a better logo...
 - [ ] Support when URL ends with parameters e.g. `?page=headliner`
+- [ ] Cleaner parsing of URLs (e.g. if finishes with `/`)
+- [ ] If no ambiguity (i.e. only one app), could work from anywhere in the repo
 
