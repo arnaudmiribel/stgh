@@ -16,5 +16,5 @@ Or vice versa, you can also just open the Streamlit app from the GitHub code!
 ## TODO
 
 - [ ] On GitHub, modify DOM to also add a button `Open in Streamlit` 
-
+- [ ] Make a better logo...
 
